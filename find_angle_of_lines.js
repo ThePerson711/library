@@ -10,7 +10,7 @@ function find_angle_of_lines(p0,p1,c) {
   }
   
   console.log("angle",
-    find_angle(
+  find_angle_of_lines(
       {x: 10, y: 0},
       {x: 0, y: 10},
       {x: 10, y: 10}
